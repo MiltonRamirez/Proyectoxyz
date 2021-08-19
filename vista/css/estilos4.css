@@ -1,0 +1,82 @@
+input{
+    display: block;
+    margin:0 auto;
+    margin: 5px auto;
+    width: 200px;
+    background-color: rgba(238, 8, 8, 0.822);
+    padding: 10px;
+    box-sizing: border-box;
+    border: 2px solid #271E0B;
+    margin-top: 5px;
+    align-items: center;
+}
+
+#subtitulo{
+    text-align: center;
+    font-size: 24px;
+    color: black;
+    margin-top: -20px;
+}
+
+#boton{
+    background: rgba(250, 188, 56, 0.877);
+}
+
+#boton2{
+    background: rgba(223, 66, 4, 0.904);
+    color: cornsilk;
+    margin-top: 30px;
+}
+
+div{
+    background-color: rgb(207, 12, 224);
+    height: 120px;
+    background-size: cover;
+    margin-top: -25px;
+    margin-left: -20px;
+    margin-right: -20px;
+}
+
+h1{
+    padding-top: 30px;
+    text-align: center;
+    color: white;
+}
+
+#enlaces{
+    background-color: rgb(47, 179, 15);
+    height: 35px;
+    
+}
+
+#enlaces a{
+    padding: 5px 5px;
+    padding-left: 200px;
+    color: white;
+    padding-top: 30px;
+    align-items: center;
+}
+
+
+#productos{
+    width: 200px;
+    height: 470px;
+    background-color: #7a95df;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    vertical-align: top;
+    text-align: center;
+}
+
+#productos img{
+    width: 160px;
+    height: 190px;
+}
+
+#productos h3{
+    background-color: #e1ec43;
+    margin: 2px 0px;
+}
+
+

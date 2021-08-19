@@ -1,0 +1,88 @@
+input{
+    display: block;
+    margin:0 auto;
+    margin: 5px auto;
+    width: 200px;
+    background-color: rgba(245, 1, 1, 0.822);
+    padding: 10px;
+    box-sizing: border-box;
+    border: 2px solid #271E0B;
+    margin-top: 5px;
+    align-items: center;
+}
+
+#subtitulo{
+    text-align: center;
+    font-size: 24px;
+    color: black;
+    margin-top: -20px;
+}
+
+#boton2{
+    background: rgba(223, 66, 4, 0.904);
+    color: cornsilk;
+    margin-top: 30px;
+}
+
+#dproducto{
+    height: 100px;
+    display: block;
+    margin:0 auto;
+    margin: 5px auto;
+    width: 200px;
+    background-color: rgba(226, 243, 71, 0.822);
+    padding: 10px;
+    box-sizing: border-box;
+    border: 2px solid #271E0B;
+    margin-top: 5px;
+    align-items: center;    
+}
+
+
+div{
+    background-color: rgb(156, 16, 211);
+    height: 120px;
+    background-size: cover;
+    margin-top: -25px;
+    margin-left: -20px;
+    margin-right: -20px;
+}
+
+h1{
+    padding-top: 30px;
+    text-align: center;
+    color: white;
+}
+
+#enlaces{
+    background-color: rgb(3, 180, 3);
+    height: 35px;
+}
+
+#enlaces a{
+    padding: 5px 5px;
+    padding-left: 190px;
+    color: white;
+    padding-top: 30px;
+    align-items: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.fotoperfil{
+    width: 120px;
+    display: block;
+    margin:0 auto;
+    margin: 5px auto;
+}
+
+p{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+}
+#productos img{ 
+    width: 100px;
+}
